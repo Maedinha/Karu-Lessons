@@ -1,6 +1,6 @@
 # The 'Array' Project.
 
-In this project I'm doing some 'Array' projects and trying to improve it as much as possible.
+In this project I'm doing some 'Array' projects using JavaScript and trying to improve it as much as possible.
 
 First I tried to get the avarage number of an already set number of grades.
 
